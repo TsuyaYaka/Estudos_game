@@ -35,6 +35,7 @@
   "name":"Vampire",
   "resources":[
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
+    {"id":{"name":"obj_enemy_orc","path":"objects/obj_enemy_orc/obj_enemy_orc.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_enemy_orc","path":"sprites/spr_enemy_orc/spr_enemy_orc.yy",},},
